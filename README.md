@@ -19,9 +19,9 @@ pip install scikit-image==0.14.0
 ```
 
 ### HOW-TO
-- [STEP 1]: Download or clone.
-- [STEP 2]: Locate directory and start command prompt.
-- [STEP 3]: Run script, and assign path to images, and give pdf a name
+- [STEP 1]: Download or clone repository.
+- [STEP 2]: Locate repository and start command prompt.
+- [STEP 3]: Run create_pdf.py, and assign path to images, and pdf name.
 
 
 ### Example
