@@ -1,6 +1,6 @@
-# Scan images to PDF
+# Scan paper to PDF
 
-Will scan images in given directory and combine them into a pdf file.
+Will scan images of paper in given directory and combine them into a PDF file.
 
 ### Prerequisites
 
